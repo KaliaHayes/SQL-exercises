@@ -1,0 +1,1 @@
+SELECT Name, Price * 100 AS Price_Cents FROM Products;

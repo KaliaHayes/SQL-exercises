@@ -1,0 +1,1 @@
+SELECT Count(*) AS Count FROM Products WHERE Price >= 180;

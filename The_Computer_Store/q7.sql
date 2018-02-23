@@ -1,0 +1,1 @@
+SELECT AVG(Price) FROM Products WHERE Manufacturer=2;
